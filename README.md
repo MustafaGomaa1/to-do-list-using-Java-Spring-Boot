@@ -30,7 +30,7 @@ Frontend: Thymeleaf, HTML, CSS
 
 Build Tool: Maven
 
-Java Version: 17
+Java Version: 21
 
 Installation
 
